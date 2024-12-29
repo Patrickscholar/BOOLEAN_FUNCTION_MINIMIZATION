@@ -70,8 +70,10 @@ RegisterNumber: 24900019
 
 
 **RTL**
-<img width="1466" alt="Screenshot 2024-11-29 at 9 20 22 PM" src="https://github.com/user-attachments/assets/1c6652a8-f964-4b5d-b22e-cc2b20e138c1">
-<img width="1421" alt="Screenshot 2024-11-29 at 9 16 02 PM" src="https://github.com/user-attachments/assets/da00f3c7-4931-473e-b454-13a85c478db5">
+![image](https://github.com/user-attachments/assets/c6081c2a-33ae-4e8a-9229-41e99e9a083e)
+
+![Screenshot 2024-12-29 185306](https://github.com/user-attachments/assets/bae7e351-85dd-4977-8d97-b50bddea353b)
+
 
 
 **Result:**
